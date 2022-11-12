@@ -5,6 +5,11 @@
 <h4 align="center">  Implementation of the trie data structure that knows how to deal well with saving text
 TRIE has the advantage of storing collections of words. In particular words with a common suffix can be stored very efficiently. </h4>
 
+<h4> Example of trie: </h4>
+
+![alt text](https://github.com/OfirOvadia96/C-language-course/blob/master/example_of_trie.jpg?raw=true)
+
+
 <h4> Compile: </h4>
 
 ```sh
