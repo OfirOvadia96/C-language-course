@@ -6,7 +6,7 @@
 <h4 div align="center">  Knowledge of the C language and an introduction to the Linux operating system </h4>
 
 <div align="center">
-<h3 > Technologies </h3>
+<h3 > Technologies: </h3>
 <span>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" height="30"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" height="30"/>
