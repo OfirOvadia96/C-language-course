@@ -1,5 +1,6 @@
-# My bank:
-<h4>This program deals with the study and application of the material in C and is based on the data structures of a two-dimensional array</h4>
+<h1 align="center"> My bank: :bank: </h1>
+
+<h4 align="center">This program deals with the study and application of the material in C and is based on the data structures of a two-dimensional array</h4>
 
 **A program consisting of:**
 
