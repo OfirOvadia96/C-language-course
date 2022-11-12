@@ -1,4 +1,4 @@
-<h1 align="center"> Sort & find-Text </h1>
+<h1 align="center"> Trie </h1>
 
 <h3 align="center"> Assignment in the C language course </h3>
 
